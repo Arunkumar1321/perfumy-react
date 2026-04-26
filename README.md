@@ -46,7 +46,7 @@ npm start
 
 ## Live Demo
 
-Deployed on Vercel → [your-project.vercel.app](https://your-project.vercel.app)
+Deployed on Vercel → [your-project.vercel.app](https://perfumy-react-eosin-mu.vercel.app/)
 
 ---
 
